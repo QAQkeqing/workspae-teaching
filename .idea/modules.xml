@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-admin/easybbs-admin.iml" filepath="$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-admin/easybbs-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-common/easybbs-common.iml" filepath="$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-common/easybbs-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-java.iml" filepath="$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-web/easybbs-web.iml" filepath="$PROJECT_DIR$/workspae-teaching/easybbs-java/easybbs-web/easybbs-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/workspae-teaching/workspae-teaching.iml" filepath="$PROJECT_DIR$/workspae-teaching/workspae-teaching.iml" />
+    </modules>
+  </component>
+</project>
